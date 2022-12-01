@@ -1,5 +1,1 @@
-print('hello world!')
-print('commit?')
-print('test')
-
-print('이게 맞나?')
+print('깃허브 협업하기')
